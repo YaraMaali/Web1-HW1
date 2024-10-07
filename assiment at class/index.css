@@ -1,0 +1,39 @@
+Header
+{
+    Background-color: #F0F0F0;
+    Padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+article
+{
+    position: fixed;
+    top: 300px;;
+     left: 0;
+     right: 4; 
+Width: 60%;
+Margin: 20px auto;
+Background-color: #E0E0E0;
+Padding: 15px;
+}
+aside{
+    Width: 30%;
+    Margin: 20px auto;
+    Background-color: #D0D0D0;
+    Padding: 15px;
+    position: fixed;
+   top: 600px;;
+    left: 0;
+    right: 4;
+}
+Footer
+{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    Background-color: #C0C0C0;
+    Padding: 10px;
+}
